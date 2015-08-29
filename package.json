@@ -1,0 +1,10 @@
+{
+  "name": "csfd-auto-remove-chci-videt",
+  "repository": "danielhusar/csfd-auto-remove-chci videt",
+  "devDependencies": {
+    "xo": "*"
+  },
+  "scripts": {
+    "test": "xo --space 2 --global chrome"
+  }
+}
