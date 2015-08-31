@@ -13,7 +13,6 @@
       });
   });
 
-
   function error() {
     window.alert('Something went wrong removing it from "chci videt"');
   }
